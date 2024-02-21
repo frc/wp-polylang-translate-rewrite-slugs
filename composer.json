@@ -1,6 +1,6 @@
 {
-    "name": "jussikinnula/wp-polylang-translate-rewrite-slugs",
+    "name": "crsohara/wp-polylang-translate-rewrite-slugs",
     "description": "Polylang - Translate URL Rewrite Slugs",
-    "homepage": "https://github.com/jussikinnula/wp-polylang-translate-rewrite-slugs",
+    "homepage": "https://github.com/crsohara/wp-polylang-translate-rewrite-slugs",
     "type": "wordpress-plugin"
 }
